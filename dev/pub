@@ -29,7 +29,6 @@ SCHEME="${SCHEME:-https}"
 
 # Use the name "bbb" for the broadcast.
 NAME="${NAME:-bbb}"
-#NAME="${NAME:-40c8b5e2-d138-4652-9680-46c1a59822fc}"
 
 # Combine the host into a URL.
 URL="${URL:-"$SCHEME://$ADDR"}"
